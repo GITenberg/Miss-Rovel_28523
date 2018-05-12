@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Victor_Cherbuliez
     - https://fr.wikipedia.org/wiki/Victor_Cherbuliez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28523#Miss-Rovel
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2009-04-06'
 gutenberg_type: Text
